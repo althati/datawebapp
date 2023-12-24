@@ -14,13 +14,13 @@ c1, c2 = st.columns((3,3))
 with c1:
     st.markdown('### Fees')
     df = pd.read_csv ('data/stocks.csv')
-    st.bar_chart(df,x='profit',y='stock')
+    st.bar_chart(df,x='stock',y='profit')
     
     
 with c2:
     st.markdown('### Purchases')
     df = pd.read_csv ('data/crypto.csv')
-    st.bar_chart(df,x='profit',y='coin')
+    st.bar_chart(df,x='coin',y='profit')
     
     
 

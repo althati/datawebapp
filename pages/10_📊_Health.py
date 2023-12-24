@@ -14,13 +14,13 @@ c1, c2 = st.columns((3,3))
 with c1:
     st.markdown('### Steps')
     df = pd.read_csv ('data/stocks.csv')
-    st.bar_chart(df,x='profit',y='stock')
+    st.bar_chart(df,x='stock',y='profit')
     
     
 with c2:
     st.markdown('### Activity')
     df = pd.read_csv ('data/crypto.csv')
-    st.bar_chart(df,x='profit',y='coin')
+    st.bar_chart(df,x='coin',y='profit')
     
     
 
@@ -30,12 +30,12 @@ c1, c2 = st.columns((3,3))
 with c1:
     st.markdown('### Heart Rate')
     df = pd.read_csv ('data/gold.csv')
-    st.bar_chart(df,x='profit',y='metal')
+    st.bar_chart(df,x='metal',y='profit')
     
     
 with c2:
     st.markdown('### Vitals')
     df = pd.read_csv ('data/realestate.csv')
-    st.bar_chart(df,x='profit',y='property')
+    st.bar_chart(df,x='property',y='profit')
     
     
