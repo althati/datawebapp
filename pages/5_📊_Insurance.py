@@ -13,13 +13,13 @@ with open('style.css') as f:
 c1, c2 = st.columns((3,3))
 with c1:
     st.markdown('### Health')
-    df = pd.read_csv ('/Users/althati/git/datawebapp/stocks.csv')
+    df = pd.read_csv ('data/stocks.csv')
     st.bar_chart(df,x='profit',y='stock')
     
     
 with c2:
     st.markdown('### Life')
-    df = pd.read_csv ('/Users/althati/git/datawebapp/crypto.csv')
+    df = pd.read_csv ('data/crypto.csv')
     st.bar_chart(df,x='profit',y='coin')
     
     
@@ -28,13 +28,13 @@ with c2:
 c1, c2 = st.columns((3,3))
 with c1:
     st.markdown('### Home')
-    df = pd.read_csv ('/Users/althati/git/datawebapp/gold.csv')
+    df = pd.read_csv ('data/gold.csv')
     st.bar_chart(df,x='profit',y='metal')
     
     
 with c2:
     st.markdown('### Auto')
-    df = pd.read_csv ('/Users/althati/git/datawebapp/realestate.csv')
+    df = pd.read_csv ('data/realestate.csv')
     st.bar_chart(df,x='profit',y='property')
     
     
