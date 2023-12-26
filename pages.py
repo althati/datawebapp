@@ -16,7 +16,7 @@ show_pages(
         Page("pages/insurance.py", "Page 6", ":books:"),
         Page("pages/investments.py", "Page 7", ":books:"),
         Page("pages/kids.py", "Page 8", ":books:"),
-        Page("pages/retrirements.py", "Page 9", ":books:"),
+        Page("pages/retirements.py", "Page 9", ":books:"),
         Page("pages/tax.py", "Page 10", ":books:")
     ]
 )
