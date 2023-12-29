@@ -1,27 +1,3 @@
 import streamlit as st
-import pandas as pd
 
-
-
-# Page setting
-st.set_page_config(layout="wide")
-
-with open('style.css') as f:
-    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
-
-# Row A
-c1, c2 = st.columns((3,3))
-with c1:
-    st.markdown('### Credit Cards')
-    df = pd.read_csv ('data/stocks.csv')
-    st.bar_chart(df,x='stock',y='profit')
-    
-    
-with c2:
-    st.markdown('### Subscriptions')
-    df = pd.read_csv ('data/crypto.csv')
-    st.bar_chart(df,x='coin',y='profit')
-    
-    
-
-
+st.write('Coming Soon!')
