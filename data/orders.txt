@@ -1,0 +1,109 @@
+Imunon Limit Sell
+Brokerage · 11m
+$88.44
+132 shares at $0.67
+
+Ideanomics Market Sell
+Brokerage · 38m
+$47.84
+24.001679 shares at $1.99
+
+Apple Limit Sell
+Brokerage · 57m
+$1,927.20
+10 shares at $192.72
+
+Oracle Limit Sell
+Brokerage · 57m
+$10,534.00
+100 shares at $105.34
+
+FedEx Limit Sell
+Brokerage · 58m
+$5,057.60
+20 shares at $252.88
+
+Adobe Limit Sell
+Brokerage · 59m
+$1,793.55
+3 shares at $597.85
+
+Amazon Limit Sell
+Brokerage · 60m
+$4,563.90
+30 shares at $152.13
+
+Microsoft Market Sell
+Brokerage · 1h
+$83.19
+0.221187 shares at $376.11
+
+Microsoft Limit Sell
+Brokerage · 1h
+$22,572.60
+60 shares at $376.21
+
+SPDR S&P 500 ETF Limit Sell
+Brokerage · 1h
+$23,780.25
+50 shares at $475.61
+
+NVIDIA Market Sell
+Brokerage · 2h
+$4.34
+0.008702 shares at $498.74
+
+NVIDIA Limit Sell
+Brokerage · 2h
+$14,940.00
+30 shares at $498.00
+
+SPDR S&P 500 ETF Limit Buy
+Brokerage · 5h
+$23,705.50
+50 shares at $474.11
+
+Bionano Genomics Market Sell
+Brokerage · 5h
+$38.81
+20 shares at $1.94
+
+Biora Therapeutics Market Sell
+Brokerage · 5h
+$11.32
+8 shares at $1.42
+
+Tonix Pharmaceuticals Market Sell
+Brokerage · 5h
+$12.57
+32 shares at $0.3928
+
+Ault Alliance Market Sell
+Brokerage · 5h
+$0.15
+1.666667 shares at $0.09
+
+Toro Market Sell
+Brokerage · 5h
+$246.01
+50 shares at $4.92
+
+LORDSTOWN MTRS CORP Market Sell
+Brokerage · 5h
+$30.95
+26.666667 shares at $1.16
+
+Imperalis Holding Market Sell
+Brokerage · 5h
+$2.15
+91.666685 shares at $0.0235
+
+Walmart Market Sell
+Brokerage · Dec 27
+$61.57
+0.390445 shares at $157.69
+
+Walmart Limit Sell
+Brokerage · Dec 27
+$4,729.50
+30 shares at $157.65
