@@ -3,5 +3,5 @@ st-pages==0.4.5
 plotly==5.18.0
 openai==0.28.0
 streamlit-chat==0.1.1
-mysqlclient==2.2.1
+pymysql==1.1.0
 SQLAlchemy==2.0.23
